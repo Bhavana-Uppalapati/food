@@ -3432,6 +3432,7 @@
     [
     { 
           "id":1,
+          "img":"./images/pizza.jpg",
           "name": "Platform 65",
           "cuisine": "Multicuisine",
           "location": "MG Road",
