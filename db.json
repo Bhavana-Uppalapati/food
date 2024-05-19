@@ -3429,7 +3429,7 @@
     }
   ],
   "vijayawada":[
-    [
+    
     { 
           "id":1,
           "img":"./images/pizza.jpg",
@@ -3573,6 +3573,6 @@
           "price_for_two": 1000
       }
   ]
-]
+
   
 }
