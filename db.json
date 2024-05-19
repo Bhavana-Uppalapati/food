@@ -3429,6 +3429,7 @@
     }
   ],
   "vijayawada":[
+    [
     { 
           "id":1,
           "name": "Platform 65",
@@ -3571,5 +3572,6 @@
           "price_for_two": 1000
       }
   ]
+]
   
 }
