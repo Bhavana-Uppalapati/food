@@ -3564,15 +3564,383 @@
           "cuisine": "Multicuisine",
           "location": "Benz Circle",
           "price_for_two": 1200
-      },
-      {
-          "id":20,
-          "name": "Spice N Ice",
-          "cuisine": "Multicuisine",
-          "location": "Gurunanak Colony",
-          "price_for_two": 1000
       }
+      
+  ],
+  "restaurants": [
+    {
+        "id": "505183",
+       " name": "Samosa Singh",
+        "cloudinaryImageId": "77baefd8a5e319c828b4d7dff7260644",
+        "locality": "Suryarao pet",
+       " areaName": "Governorpet",
+       " costForTwo": "₹150 for two",
+       " cuisines": [
+          "North Indian",
+          "Indian",
+          "Snacks",
+          "Beverages"
+        ],
+        "avgRating": 4.1,
+       " veg": true,
+        "totalRatingsString": "1K+",
+        "deliveryTime": 37,
+        "opened": true,
+        " description": "pureveg"
+      
+      
+    },
+    {
+      
+       " id": "71351",
+        "name": "Sweet Magic",
+       " cloudinaryImageId": "lzk60pgzej2frjof7mzz",
+       " locality": "MG Road, Vijayawada",
+       " areaName": "MG Road",
+       " costForTwo": "₹300 for two",
+        "cuisines": [
+          "South Indian",
+          "Indian",
+          "Tandoor",
+          "Desserts",
+          "Bakery",
+          "Chinese",
+          "Thalis",
+          "Beverages"
+        ],
+        "avgRating": 4.1,
+        "veg": true,
+      "totalRatingsString": "5K+",
+       "deliveryTime": 31,
+       "opened": true,
+           
+        "description": "pureveg"
+    },
+    {
+   
+       " id": "327236",
+       " name": "Delights by INOX",
+       " cloudinaryImageId": "b857fcf611707fedd3773eb02688f925",
+        "locality": "Teacher's Colony",
+       " areaName": "Gurunanak Colony",
+       " costForTwo": "₹400 for two",
+       " cuisines": ["Snacks"],
+       " avgRating": 4.3,
+       " totalRatingsString": "100+",
+       " deliveryTime": 26,
+       "opened": true,
+       "description": "pureveg"
+  },
+    
+    {
+     
+        "id": "76736",
+       " name": "Subway",
+        "cloudinaryImageId": "63178e3e64d503a479f2a2048a474552",
+        "locality": "SURYA SATYA APARTMENTS",
+       " areaName": "FORTUNE MURALI PARK ROAD",
+        "costForTwo": "₹350 for two",
+        "cuisines": [
+          "Healthy Food",
+          "Salads",
+          "Snacks",
+          "Desserts",
+          "Beverages"
+        ],
+       " avgRating": 3.9,
+       "veg":false,
+       " totalRatingsString": "10K+",
+       " deliveryTime": 25,
+       " opened": true,
+       "description": "Nonveg"
+     
+},
+    {
+    
+        "id": "617747",
+        "name": "Burger King",
+       " cloudinaryImageId": "e33e1d3ba7d6b2bb0d45e1001b731fcf",
+        "locality": "Postal Colony",
+        "areaName": "VIJAYAWADA",
+        "costForTwo": "₹350 for two",
+       " cuisines": ["Burgers", "American"],
+        "avgRating": 4.2,
+        "veg":true,
+        "totalRatingsString": "5K+",
+        "deliveryTime": 29,
+        "opened": true,
+        "description": "Nonveg"
+        
+    },
+    {
+     
+        "id": "640760",
+        "name": "Starbucks Coffee",
+        "cloudinaryImageId": "2418209798927d733a50f5d2ebcc2aee",
+        "locality": "Officers Colony",
+        "areaName": "Gurunanak Colony",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "Beverages",
+          "Cafe",
+          "Snacks",
+          "Desserts",
+          "Bakery",
+          "Ice Cream"
+        ],
+        "avgRating": 4.4,
+         "veg":true,
+        "totalRatingsString": "1K+",
+        "deliveryTime": 20,
+        "opened": true,
+        "description": "veg"
+        
+    },
+    {
+     
+       " id": "309026",
+        "name": "Kwality Walls Frozen Dessert and Ice Cream Shop",
+        "cloudinaryImageId": "jiylvgsbupc3gwxmk11k",
+        "locality": "RTC Colony",
+        "areaName": "Patamata",
+       " costForTwo": "₹300 for two",
+       " cuisines": ["Desserts", "Ice Cream", "Ice Cream Cakes"],
+        "avgRating": 4.6,
+       " veg": true,
+      " totalRatingsString": "1K+",
+       "deliveryTime": 29,
+       "opened": true,
+       "description": "pureveg"
+
+
+    },
+   
+    {
+   
+        "id": "218609",
+       " name": "Sweet Truth - Cake and Desserts",
+        "cloudinaryImageId":
+          "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/8/50683597-df99-4435-90e7-ba0661a8cef7_218609.JPG",
+        "locality": "Ramachandra Rao Raod",
+        "areaName": "Suryarao Pet",
+       " costForTwo": "₹450 for two",
+       " cuisines": ["Snacks", "Bakery", "Desserts", "Beverages"],
+        "avgRating": 4.2,
+        "veg":true,
+       " totalRatingsString": "1K+",
+       " deliveryTime": 35,
+       " opened": true,
+       "description": "pureveg"
+
+      
+    },
+    {
+  
+        "id": "289588",
+       " name": "Cafe Coffee Day",
+        "cloudinaryImageId": "b70c7d23d197251b7b315b7e4d8173ae",
+        "locality": "Sidhartha Nagar",
+        "areaName": "Labbipet",
+        "costForTwo": "₹400 for two",
+        "cuisines": [
+          "Beverages",
+          "Cafe",
+          "Snacks",
+          "Desserts",
+          "Burgers",
+          "Ice Cream",
+          "Bakery",
+          "Fast Food"
+        ],
+        "avgRating": 4.3,
+      
+   
+         " veg":true,
+         " totalRatingsString": "500+",
+         "deliveryTime": 14,
+         " opened": true,
+         "description": "pureveg"
+      
+       
+    },
+    {
+   
+        "id": "218610",
+       " name": "The Good Bowl",
+        "cloudinaryImageId": "6e04be27387483a7c00444f8e8241108",
+        "locality": "Ramachandra Rao Raod",
+        "areaName": "Suryarao Pet",
+       " costForTwo": "₹400 for two",
+        "cuisines": [
+          "Biryani",
+          "North Indian",
+          "Pastas",
+          "Punjabi",
+          "Desserts",
+          "Beverages"
+        ],
+       " avgRating": 4,
+       "veg":false,
+       " totalRatingsString": "1K+",
+       "deliveryTime": 35,
+       "opened": true,
+       "description": "nonveg"
+
+    },
+    {
+   
+       " id": "263821",
+       " name": "Pure Veg Meals by LunchBox",
+        "cloudinaryImageId": "swgfeyltacxczdtboafo",
+        "locality": "Ramachandra Rao Raod",
+        "areaName": "Suryarao Pet",
+        "costForTwo": "₹200 for two",
+        "cuisines": [
+          "Biryani",
+          "North Indian",
+          "Desserts",
+          "Beverages"
+        ],
+       " avgRating": 4,
+        " veg":true,
+       " totalRatingsString": "100+",
+       "deliveryTime": 43,
+       "opened": true,
+       "description": "pureveg"
+       
+    },
+    {
+    
+        "id": "566404",
+       " name": "Faasos' Signature Wraps & Rolls",
+       " cloudinaryImageId": "c583ca6ce40b426797a78ae2ac91f2ec",
+        "locality": "Ramachandra Rao Raod",
+       " areaName": "Suryarao Pet",
+       " costForTwo": "₹350 for two",
+      "  cuisines": [
+          "Fast Food",
+          "Snacks",
+          "North Indian",
+          "Desserts",
+          "Beverages"
+        ],
+        "avgRating": 3.8,
+        "veg":false,
+        "totalRatingsString": "100+",
+        "deliveryTime": 41,
+        " opened": true,
+        "description": "pureveg"
+        
+    },
+    {
+ 
+        "id": "79547",
+        "name": "Domino's Pizza",
+       " cloudinaryImageId": "d0450ce1a6ba19ea60cd724471ed54a8",
+        "locality": "Mg Road",
+        "areaName": "Acharya Ranga Nagar",
+       " costForTwo": "₹400 for two",
+       " cuisines": ["Pizzas", "Italian", "Pastas", "Desserts"],
+       " avgRating": 4.3,
+         "veg":false,
+       " totalRatingsString": "5K+",
+       "deliveryTime": 25,
+       " opened": true
+      
+    },
+   
+    {
+      "info": {
+        "id": "582232",
+       " name": "Cheesecakes By CakeZone",
+        "cloudinaryImageId": "76d5f4055f9d5796bc7b72dfba8bd92b",
+        "locality": "K.K.R goutham school",
+       " areaName": "Sri Ramachandra Nagar",
+        "costForTwo": "₹200 for two",
+        "cuisines": ["Desserts", "Bakery"],
+       " avgRating": 4.2,
+       " veg": true,
+        "parentId": "348057",
+        "avgRatingString": "4.2",
+        "totalRatingsString": "100+",
+        "sla": {
+          "deliveryTime": 39,
+          "lastMileTravel": 1.3,
+          "serviceability": "SERVICEABLE",
+          "slaString": "35-40 mins",
+          "lastMileTravelString": "1.3 km",
+          "iconType": "ICON_TYPE_EMPTY"
+        },
+       " availability": {
+          "nextCloseTime": "2024-05-20 23:59:00",
+          "opened": true
+        },
+       " badges": {
+          "imageBadges": [
+            { "imageId": "newg.png", "description": "Gourmet" }
+          ]
+        },
+        "isOpen": true,
+        "type": "F",
+        "badgesV2": {
+          "entityBadges": {
+            "imageBased": {
+              "badgeObject": [
+                {
+                  "attributes": {
+                    "description": "Gourmet",
+                    "imageId": "newg.png"
+                  }
+                }
+              ]
+            },
+            "textBased": {},
+            "textExtendedBadges": {}
+          }
+        },
+       " aggregatedDiscountInfoV3": {
+         " header": "60% OFF",
+          "subHeader": "UPTO ₹120"
+        },
+      "differentiatedUi": {
+          "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+          "differentiatedUiMediaDetail": {
+           " mediaType": "ADS_MEDIA_ENUM_IMAGE",
+            "lottie": {},
+            "video": {}
+          }
+        },
+        "reviewsSummar": {},
+        "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+        "restaurantOfferPresentationInfo": {}
+     },
+      "analytics": {},
+      "cta": {
+       " link": "https://www.swiggy.com/restaurants/cheesecakes-by-cakezone-k-k-r-goutham-school-sri-ramachandra-nagar-vijayawada-582232",
+        "type": "WEBLINK"
+      }
+    },
+    {
+     
+        "id": "68384",
+        "name": "Frozen Bottle - Milkshakes, Desserts And Ice Cream",
+        "cloudinaryImageId":
+          "RX_THUMBNAIL/IMAGES/VENDOR/2024/5/13/5064548d-f53c-45a7-87fd-62339183601a_68384.jpg",
+        "locality": "Labbipet",
+        "areaName": "Labbipet",
+        "costForTwo": "₹250 for two",
+        "cuisines": ["Beverages", "Ice Cream", "Desserts"],
+        "avgRating": 4.4,
+       
+        "totalRatingsString": "1K+",
+        "deliveryTime": 29,
+        "opened": true
+     
+  
+  
+  } 
   ]
+
 
 }
 
