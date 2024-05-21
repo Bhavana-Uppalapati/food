@@ -3964,5 +3964,116 @@
       "deliveryTime": 29,
       "opened": true
     }
+  ],
+  "Burger King":[
+    {
+        "id":19,
+        "menu": {
+          "chicken": [
+            {
+              "name": "Original Recipe Chicken",
+              "description": "Marinated and breaded in the Colonel's secret recipe.",
+              "price": 6.99,
+              "calories": 390
+            },
+            {
+              "name": "Extra Crispy Chicken",
+              "description": "Double breaded and fried to a crispy golden brown.",
+              "price": 7.49,
+              "calories": 490
+            },
+            {
+              "name": "Kentucky Grilled Chicken",
+              "description": "Grilled to juicy perfection.",
+              "price": 6.99,
+              "calories": 210
+            }
+          ],
+          "sandwiches": [
+            {
+              "name": "Crispy Colonel Sandwich",
+              "description": "Crispy chicken fillet with mayo and pickles on a bun.",
+              "price": 4.99,
+              "calories": 650
+            },
+            {
+              "name": "Chicken Little",
+              "description": "Mini sandwich with an Extra Crispy chicken strip, pickles, and mayo.",
+              "price": 1.99,
+              "calories": 300
+            }
+          ],
+          "burgers": [
+            {
+              "name": "Zinger Burger",
+              "description": "Spicy chicken fillet with lettuce and mayo on a sesame seed bun.",
+              "price": 5.49,
+              "calories": 540
+            },
+            {
+              "name": "Double Crunch Burger",
+              "description": "Two crispy chicken fillets with lettuce and mayo on a bun.",
+              "price": 6.99,
+              "calories": 750
+            },
+            {
+              "name": "Original Recipe Burger",
+              "description": "Original Recipe chicken fillet with lettuce and mayo on a sesame seed bun.",
+              "price": 5.49,
+              "calories": 510
+            }
+          ],
+          "sides": [
+            {
+              "name": "Mashed Potatoes with Gravy",
+              "description": "Creamy mashed potatoes with savory gravy.",
+              "price": 2.49,
+              "calories": 130
+            },
+            {
+              "name": "Coleslaw",
+              "description": "Freshly prepared with cabbage, carrots, and a tangy dressing.",
+              "price": 2.29,
+              "calories": 170
+            },
+            {
+              "name": "Biscuit",
+              "description": "Fluffy, buttery biscuit.",
+              "price": 0.99,
+              "calories": 180
+            }
+          ],
+          "drinks": [
+            {
+              "name": "Pepsi",
+              "description": "Classic Pepsi soda.",
+              "price": 1.99,
+              "calories": 150
+            },
+            {
+              "name": "Mountain Dew",
+              "description": "Citrus-flavored soda.",
+              "price": 1.99,
+              "calories": 170
+            }
+          ],
+          "desserts": [
+            {
+              "name": "Chocolate Chip Cookie",
+              "description": "Warm, gooey chocolate chip cookie.",
+              "price": 0.99,
+              "calories": 120
+            },
+            {
+              "name": "Apple Turnover",
+              "description": "Flaky pastry filled with apple filling.",
+              "price": 1.49,
+              "calories": 250
+            }
+          ]
+        }
+      }
+      
+    
   ]
 }
