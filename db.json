@@ -3966,11 +3966,7 @@
     }
   ],
   "Burger King":[
-    {
-        "id":19,
-        "menu": {
-          "chicken": [
-            {
+             {
               "name": "Original Recipe Chicken",
               "description": "Marinated and breaded in the Colonel's secret recipe.",
               "price": 6.99,
@@ -3987,9 +3983,8 @@
               "description": "Grilled to juicy perfection.",
               "price": 6.99,
               "calories": 210
-            }
-          ],
-          "sandwiches": [
+            },
+         
             {
               "name": "Crispy Colonel Sandwich",
               "description": "Crispy chicken fillet with mayo and pickles on a bun.",
@@ -4001,9 +3996,8 @@
               "description": "Mini sandwich with an Extra Crispy chicken strip, pickles, and mayo.",
               "price": 1.99,
               "calories": 300
-            }
-          ],
-          "burgers": [
+            },
+         
             {
               "name": "Zinger Burger",
               "description": "Spicy chicken fillet with lettuce and mayo on a sesame seed bun.",
@@ -4021,9 +4015,8 @@
               "description": "Original Recipe chicken fillet with lettuce and mayo on a sesame seed bun.",
               "price": 5.49,
               "calories": 510
-            }
-          ],
-          "sides": [
+            },
+          
             {
               "name": "Mashed Potatoes with Gravy",
               "description": "Creamy mashed potatoes with savory gravy.",
@@ -4041,9 +4034,7 @@
               "description": "Fluffy, buttery biscuit.",
               "price": 0.99,
               "calories": 180
-            }
-          ],
-          "drinks": [
+            },
             {
               "name": "Pepsi",
               "description": "Classic Pepsi soda.",
@@ -4055,9 +4046,7 @@
               "description": "Citrus-flavored soda.",
               "price": 1.99,
               "calories": 170
-            }
-          ],
-          "desserts": [
+            },
             {
               "name": "Chocolate Chip Cookie",
               "description": "Warm, gooey chocolate chip cookie.",
@@ -4070,10 +4059,6 @@
               "price": 1.49,
               "calories": 250
             }
-          ]
-        }
-      }
-      
-    
-  ]
+        
+    ]
 }
