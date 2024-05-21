@@ -594,10 +594,7 @@
     }
   ],
   "1":[
-    {
-
-        "starters": [
-          {
+           {
             "name": "Crispy Corn",
             "description": "Sweet corn kernels fried to a crispy perfection.",
             "price": 4.99,
@@ -632,9 +629,9 @@
             "description": "Crispy fried prawns tossed with pepper and salt.",
             "price": 8.99,
             "calories": 300
-          }
-        ],
-        "mains": [
+          },
+   
+      
           {
             "name": "Paneer Tikka",
             "description": "Chunks of paneer marinated in spices and grilled.",
@@ -658,9 +655,9 @@
             "description": "Lamb cooked in a rich and flavorful curry.",
             "price": 14.99,
             "calories": 700
-          }
-        ],
-        "biryanis": [
+          },
+      
+      
           {
             "name": "Hyderabadi Chicken Biryani",
             "description": "Traditional Hyderabadi biryani made with basmati rice and chicken, cooked with aromatic spices.",
@@ -702,9 +699,9 @@
             "description": "Basmati rice cooked with fish fillets and a blend of spices.",
             "price": 12.99,
             "calories": 580
-          }
-        ],
-        "breads": [
+          },
+     
+       
           {
             "name": "Garlic Naan",
             "description": "Leavened bread topped with garlic and coriander.",
@@ -716,9 +713,9 @@
             "description": "Whole wheat flatbread.",
             "price": 1.99,
             "calories": 100
-          }
-        ],
-        "sides": [
+          },
+       
+     
           {
             "name": "Raita",
             "description": "Yogurt with cucumber and spices.",
@@ -730,9 +727,9 @@
             "description": "Fresh mixed greens with a light dressing.",
             "price": 2.49,
             "calories": 30
-          }
-        ],
-        "desserts": [
+          },
+   
+       
           {
             "name": "Gulab Jamun",
             "description": "Deep-fried dough balls in sweet syrup.",
@@ -744,9 +741,9 @@
             "description": "Soft paneer balls in sweetened milk.",
             "price": 4.49,
             "calories": 250
-          }
-        ],
-        "drinks": [
+          },
+    
+   
           {
             "name": "Masala Chai",
             "description": "Traditional Indian spiced tea.",
@@ -759,11 +756,1688 @@
             "price": 3.49,
             "calories": 150
           }
-        ]
+   
      
+    
+    
+  ],
+  "2":[
+    {
+      "menu": {
+        "starters": [
+          {
+            "name": "BBQ Chicken Wings",
+            "description": "Juicy chicken wings marinated in a special BBQ sauce and grilled to perfection.",
+            "price": 7.99,
+            "calories": 400
+          },
+          {
+            "name": "Grilled Prawns",
+            "description": "Fresh prawns seasoned with herbs and spices, grilled to a smoky finish.",
+            "price": 9.99,
+            "calories": 350
+          },
+          {
+            "name": "Paneer Tikka",
+            "description": "Chunks of paneer marinated in spices and grilled.",
+            "price": 6.99,
+            "calories": 300
+          },
+          {
+            "name": "Tandoori Mushrooms",
+            "description": "Mushrooms marinated in a blend of spices and grilled.",
+            "price": 5.99,
+            "calories": 200
+          }
+        ],
+        "main_courses": [
+          {
+            "name": "Chicken Biryani",
+            "description": "Aromatic basmati rice cooked with tender pieces of chicken and a blend of spices.",
+            "price": 11.99,
+            "calories": 650
+          },
+          {
+            "name": "Mutton Rogan Josh",
+            "description": "A rich and flavorful lamb curry cooked with traditional spices.",
+            "price": 14.99,
+            "calories": 700
+          },
+          {
+            "name": "Paneer Butter Masala",
+            "description": "Paneer cooked in a creamy tomato-based sauce with butter and spices.",
+            "price": 9.99,
+            "calories": 500
+          },
+          {
+            "name": "Dal Makhani",
+            "description": "Slow-cooked black lentils in a rich and creamy sauce.",
+            "price": 8.99,
+            "calories": 450
+          }
+        ],
+        "biryanis": [
+          {
+            "name": "Hyderabadi Chicken Biryani",
+            "description": "Traditional Hyderabadi biryani made with basmati rice and chicken, cooked with aromatic spices.",
+            "price": 12.99,
+            "calories": 650
+          },
+          {
+            "name": "Mutton Biryani",
+            "description": "Flavorful biryani with tender pieces of mutton and fragrant basmati rice.",
+            "price": 14.99,
+            "calories": 700
+          },
+          {
+            "name": "Prawn Biryani",
+            "description": "Basmati rice cooked with prawns and a blend of spices.",
+            "price": 13.99,
+            "calories": 600
+          },
+          {
+            "name": "Vegetable Biryani",
+            "description": "Aromatic basmati rice with mixed vegetables.",
+            "price": 10.99,
+            "calories": 500
+          }
+        ],
+        "desserts": [
+          {
+            "name": "Gulab Jamun",
+            "description": "Deep-fried dough balls soaked in sweet syrup.",
+            "price": 3.99,
+            "calories": 300
+          },
+          {
+            "name": "Phirni",
+            "description": "Creamy rice pudding flavored with cardamom and saffron.",
+            "price": 4.49,
+            "calories": 250
+          },
+          {
+            "name": "Ice Cream",
+            "description": "Assorted flavors of creamy ice cream.",
+            "price": 2.99,
+            "calories": 200
+          },
+          {
+            "name": "Brownie",
+            "description": "Warm chocolate brownie served with vanilla ice cream.",
+            "price": 5.99,
+            "calories": 400
+          }
+        ],
+        "drinks": [
+          {
+            "name": "Lemonade",
+            "description": "Refreshing lemonade made with fresh lemons.",
+            "price": 2.99,
+            "calories": 100
+          },
+          {
+            "name": "Mango Lassi",
+            "description": "Traditional yogurt-based drink blended with mango.",
+            "price": 3.99,
+            "calories": 150
+          },
+          {
+            "name": "Masala Chai",
+            "description": "Spiced tea made with milk and aromatic spices.",
+            "price": 2.49,
+            "calories": 100
+          },
+          {
+            "name": "Coca Cola",
+            "description": "Classic Coca Cola.",
+            "price": 1.99,
+            "calories": 150
+          }
+        ]
+      }
     }
     
   ],
+  "3":[
+   
+     
+      
+          {
+            "name": "Molecular Bruschetta",
+            "description": "Tomato and basil spheres served on a toasted baguette slice.",
+            "price": 6.99,
+            "calories": 180
+          },
+          {
+            "name": "Nitro Shrimp Cocktail",
+            "description": "Chilled shrimp served with a smoky nitro cocktail sauce.",
+            "price": 9.99,
+            "calories": 220
+          },
+          {
+            "name": "Foam Parmesan Risotto",
+            "description": "Creamy risotto with a light Parmesan foam.",
+            "price": 7.99,
+            "calories": 250
+          },
+          {
+            "name": "Deconstructed Caesar Salad",
+            "description": "Romaine lettuce, Caesar dressing spheres, and Parmesan crisps.",
+            "price": 5.99,
+            "calories": 150
+          },
+        
+          {
+            "name": "Sous-Vide Lamb Chops",
+            "description": "Tender lamb chops cooked sous-vide and finished with a red wine reduction.",
+            "price": 18.99,
+            "calories": 600
+          },
+          {
+            "name": "Spherified Spaghetti Carbonara",
+            "description": "Carbonara sauce encapsulated in spaghetti spheres, topped with crispy pancetta.",
+            "price": 15.99,
+            "calories": 550
+          },
+          {
+            "name": "Liquid Smoke BBQ Chicken",
+            "description": "Grilled chicken breast infused with liquid smoke, served with mashed potatoes.",
+            "price": 14.99,
+            "calories": 500
+          },
+          {
+            "name": "Vegetarian Molecular Lasagna",
+            "description": "Layers of pasta, tomato caviar, and basil foam.",
+            "price": 13.99,
+            "calories": 450
+          },
+      
+          {
+            "name": "Chocolate Lava Cake with Raspberry Caviar",
+            "description": "Warm chocolate cake with a liquid center, topped with raspberry spheres.",
+            "price": 7.99,
+            "calories": 400
+          },
+          {
+            "name": "Molecular Cheesecake",
+            "description": "Classic cheesecake deconstructed with a berry compote gel.",
+            "price": 6.99,
+            "calories": 350
+          },
+          {
+            "name": "Nitro Ice Cream",
+            "description": "Ice cream made with liquid nitrogen, available in various flavors.",
+            "price": 5.99,
+            "calories": 200
+          },
+          {
+            "name": "Fruit Salad with Basil Foam",
+            "description": "Fresh mixed fruits topped with a light basil foam.",
+            "price": 4.99,
+            "calories": 150
+          },
+    
+          {
+            "name": "Molecular Mojito",
+            "description": "Classic mojito served with mint caviar and lime foam.",
+            "price": 8.99,
+            "calories": 200
+          },
+          {
+            "name": "Nitro Cold Brew Coffee",
+            "description": "Smooth and creamy cold brew coffee infused with nitrogen.",
+            "price": 4.99,
+            "calories": 50
+          },
+          {
+            "name": "Fizzy Lemonade",
+            "description": "Carbonated lemonade with a hint of mint.",
+            "price": 3.99,
+            "calories": 120
+          },
+          {
+            "name": "Elderflower Spritz",
+            "description": "A refreshing mix of elderflower syrup, soda, and lemon.",
+            "price": 5.99,
+            "calories": 100
+          }
+      
+],
+  "4":[
+ 
+      
+    
+      
+          {
+            "name": "Chicken Tikka",
+            "description": "Marinated chicken pieces cooked in a tandoor.",
+            "price": 7.99
+          },
+          {
+            "name": "Paneer Tikka",
+            "description": "Grilled cottage cheese marinated in spices.",
+            "price": 6.99
+          },
+          {
+            "name": "Veg Samosa",
+            "description": "Crispy pastry filled with spiced potatoes and peas.",
+            "price": 3.99
+          }
+      ,
+        
+          {
+            "name": "Butter Chicken",
+            "description": "Chicken cooked in a creamy tomato sauce.",
+            "price": 12.99
+          },
+          {
+            "name": "Paneer Butter Masala",
+            "description": "Cottage cheese cooked in a rich butter and tomato sauce.",
+            "price": 11.99
+          },
+          {
+            "name": "Lamb Biryani",
+            "description": "Fragrant rice cooked with lamb and aromatic spices.",
+            "price": 14.99
+          },
+          {
+            "name": "Vegetable Biryani",
+            "description": "Basmati rice cooked with mixed vegetables and spices.",
+            "price": 10.99
+          }
+      ,
+        
+          {
+            "name": "Garlic Naan",
+            "description": "Leavened flatbread with garlic.",
+            "price": 2.99
+          },
+          {
+            "name": "Butter Naan",
+            "description": "Leavened flatbread with butter.",
+            "price": 2.49
+          },
+          {
+            "name": "Roti",
+            "description": "Unleavened whole wheat flatbread.",
+            "price": 1.99
+          }
+        ,
+       
+          {
+            "name": "Gulab Jamun",
+            "description": "Deep-fried dough balls soaked in sugar syrup.",
+            "price": 3.99
+          },
+          {
+            "name": "Rasmalai",
+            "description": "Cottage cheese balls soaked in sweetened milk.",
+            "price": 4.99
+          }
+        ,
+       
+          {
+            "name": "Mango Lassi",
+            "description": "Sweetened yogurt drink with mango.",
+            "price": 3.49
+          },
+          {
+            "name": "Masala Chai",
+            "description": "Spiced Indian tea with milk.",
+            "price": 2.99
+          },
+          {
+            "name": "Soft Drinks",
+            "description": "Choice of Coke, Diet Coke, Sprite, Fanta.",
+            "price": 1.99
+          }
+        ],
+  "5":[
+   
+     
+          {
+            "name": "BBQ Chicken Wings",
+            "description": "Grilled chicken wings with BBQ sauce.",
+            "price": 8.99
+          },
+          {
+            "name": "Spicy Grilled Prawns",
+            "description": "Prawns marinated in spices and grilled to perfection.",
+            "price": 10.99
+          },
+          {
+            "name": "Veg Seekh Kebabs",
+            "description": "Spiced vegetable kebabs grilled on skewers.",
+            "price": 7.99
+          }
+        ,
+     
+          {
+            "name": "Grilled Chicken Platter",
+            "description": "A platter of assorted grilled chicken pieces.",
+            "price": 15.99
+          },
+          {
+            "name": "Lamb Chops",
+            "description": "Juicy lamb chops grilled with herbs and spices.",
+            "price": 18.99
+          },
+          {
+            "name": "Paneer Tikka",
+            "description": "Grilled cottage cheese cubes marinated in spices.",
+            "price": 12.99
+          },
+          {
+            "name": "Grilled Fish",
+            "description": "Fresh fish fillet grilled with a lemon butter sauce.",
+            "price": 17.99
+          }
+        ,
+    
+          {
+            "name": "Grilled Vegetables",
+            "description": "Assorted seasonal vegetables grilled to perfection.",
+            "price": 6.99
+          },
+          {
+            "name": "Mashed Potatoes",
+            "description": "Creamy mashed potatoes with butter.",
+            "price": 4.99
+          },
+          {
+            "name": "French Fries",
+            "description": "Crispy golden French fries.",
+            "price": 3.99
+          }
+        ,
+       
+          {
+            "name": "Chocolate Brownie",
+            "description": "Rich chocolate brownie served with vanilla ice cream.",
+            "price": 5.99
+          },
+          {
+            "name": "Mango Cheesecake",
+            "description": "Creamy cheesecake with a mango topping.",
+            "price": 6.99
+          }
+        ,
+    
+          {
+            "name": "Lemon Iced Tea",
+            "description": "Refreshing iced tea with a hint of lemon.",
+            "price": 2.99
+          },
+          {
+            "name": "Fresh Lime Soda",
+            "description": "Sparkling water with fresh lime juice.",
+            "price": 2.49
+          },
+          {
+            "name": "Soft Drinks",
+            "description": "Choice of Coke, Diet Coke, Sprite, Fanta.",
+            "price": 1.99
+          }
+        
+      
+    
+    
+  ],
+  "6":[
+   
+      
+        
+          {
+            "name": "Hummus with Pita",
+            "description": "Creamy hummus served with warm pita bread.",
+            "price": 5.99
+          },
+          {
+            "name": "Falafel",
+            "description": "Crispy fried chickpea balls served with tahini sauce.",
+            "price": 6.99
+          },
+          {
+            "name": "Stuffed Grape Leaves",
+            "description": "Grape leaves stuffed with rice and herbs.",
+            "price": 4.99
+          }
+        ,
+        
+          {
+            "name": "Chicken Mandi",
+            "description": "Traditional Arabian rice dish with spiced chicken.",
+            "price": 14.99
+          },
+          {
+            "name": "Lamb Mandi",
+            "description": "Aromatic rice cooked with tender lamb pieces.",
+            "price": 16.99
+          },
+          {
+            "name": "Vegetable Mandi",
+            "description": "Flavorful rice dish with assorted vegetables.",
+            "price": 12.99
+          },
+          {
+            "name": "Fish Mandi",
+            "description": "Spiced rice served with grilled fish.",
+            "price": 15.99
+          }
+        ,
+       
+          {
+            "name": "Baba Ganoush",
+            "description": "Smoky eggplant dip served with pita bread.",
+            "price": 5.99
+          },
+          {
+            "name": "Tabbouleh",
+            "description": "Fresh parsley salad with bulgur, tomatoes, and lemon.",
+            "price": 4.99
+          },
+          {
+            "name": "Pickled Vegetables",
+            "description": "Assorted vegetables pickled in a tangy brine.",
+            "price": 3.99
+          },
+     
+          {
+            "name": "Baklava",
+            "description": "Sweet pastry made of layers of filo filled with nuts and honey.",
+            "price": 5.99
+          },
+          {
+            "name": "Knafeh",
+            "description": "Cheese pastry soaked in sweet sugar-based syrup.",
+            "price": 6.99
+          },
+      
+          {
+            "name": "Mint Lemonade",
+            "description": "Refreshing lemonade with a hint of mint.",
+            "price": 2.99
+          },
+          {
+            "name": "Arabic Coffee",
+            "description": "Traditional Arabic coffee with cardamom.",
+            "price": 3.49
+          },
+          {
+            "name": "Soft Drinks",
+            "description": "Choice of Coke, Diet Coke, Sprite, Fanta.",
+            "price": 1.99
+          }
+  ],
+  "7":[
+  
+     
+       
+          {
+            "name": "Vanilla Shake",
+            "description": "Classic vanilla flavored thick shake.",
+            "price": 4.99
+          },
+          {
+            "name": "Chocolate Shake",
+            "description": "Rich and creamy chocolate thick shake.",
+            "price": 5.49
+          },
+          {
+            "name": "Strawberry Shake",
+            "description": "Sweet and fruity strawberry thick shake.",
+            "price": 5.29
+          },
+       
+          {
+            "name": "Oreo Cookie Shake",
+            "description": "Blended Oreo cookies with vanilla ice cream.",
+            "price": 6.49
+          },
+          {
+            "name": "Nutella Shake",
+            "description": "Decadent Nutella blended with creamy ice cream.",
+            "price": 6.99
+          },
+          {
+            "name": "Peanut Butter Banana Shake",
+            "description": "Smooth peanut butter with fresh bananas and ice cream.",
+            "price": 6.79
+          },
+       
+          {
+            "name": "Mango Shake",
+            "description": "Tropical mango blended with ice cream.",
+            "price": 5.99
+          },
+          {
+            "name": "Mixed Berry Shake",
+            "description": "A blend of berries with creamy ice cream.",
+            "price": 6.29
+          },
+          {
+            "name": "Banana Shake",
+            "description": "Fresh bananas blended into a smooth thick shake.",
+            "price": 5.49
+          },
+       
+          {
+            "name": "Avocado Shake",
+            "description": "Creamy avocado blended with milk and a hint of honey.",
+            "price": 6.99
+          },
+          {
+            "name": "Green Smoothie Shake",
+            "description": "A blend of spinach, kale, apple, and banana.",
+            "price": 6.49
+          },
+          {
+            "name": "Protein Power Shake",
+            "description": "High-protein shake with whey protein, banana, and almond milk.",
+            "price": 7.49
+          },
+      
+          {
+            "name": "Brownie Shake",
+            "description": "Chunks of brownie blended with chocolate ice cream.",
+            "price": 6.99
+          },
+          {
+            "name": "Cheesecake Shake",
+            "description": "Creamy cheesecake blended into a thick shake.",
+            "price": 7.29
+          },
+          {
+            "name": "Caramel Fudge Shake",
+            "description": "Rich caramel fudge blended with vanilla ice cream.",
+            "price": 7.49
+          },
+       
+          {
+            "name": "Whipped Cream",
+            "description": "Add a topping of whipped cream.",
+            "price": 0.99
+          },
+          {
+            "name": "Extra Scoop of Ice Cream",
+            "description": "Add an extra scoop of your favorite ice cream.",
+            "price": 1.99
+          },
+          {
+            "name": "Toppings",
+            "description": "Choose from a variety of toppings like sprinkles, nuts, and more.",
+            "price": 0.79
+          }
+        
+],
+"8":[
+ 
+        {
+          "name": "Buffalo Wings",
+          "description": "Spicy buffalo wings served with blue cheese dip.",
+          "price": 8.99
+        },
+        {
+          "name": "Loaded Nachos",
+          "description": "Crispy nachos topped with cheese, jalapenos, salsa, and sour cream.",
+          "price": 7.99
+        },
+        {
+          "name": "Mozzarella Sticks",
+          "description": "Golden fried mozzarella sticks served with marinara sauce.",
+          "price": 6.99
+        },
+    
+        {
+          "name": "Caesar Salad",
+          "description": "Crisp romaine lettuce with Caesar dressing, croutons, and Parmesan.",
+          "price": 9.99
+        },
+        {
+          "name": "Greek Salad",
+          "description": "Mixed greens with feta cheese, olives, cucumbers, and tomatoes.",
+          "price": 8.99
+        },
+        {
+          "name": "Grilled Chicken Salad",
+          "description": "Mixed greens topped with grilled chicken, avocado, and a balsamic vinaigrette.",
+          "price": 10.99
+        },
+   
+        {
+          "name": "BBQ Ribs",
+          "description": "Slow-cooked BBQ ribs served with coleslaw and fries.",
+          "price": 16.99
+        },
+        {
+          "name": "Cheeseburger",
+          "description": "Juicy beef patty with cheddar cheese, lettuce, tomato, and onion on a brioche bun.",
+          "price": 11.99
+        },
+        {
+          "name": "Fish and Chips",
+          "description": "Beer-battered fish fillets served with fries and tartar sauce.",
+          "price": 13.99
+        },
+        {
+          "name": "Veggie Burger",
+          "description": "Grilled veggie patty with lettuce, tomato, and avocado on a whole wheat bun.",
+          "price": 10.99
+        },
+   
+        {
+          "name": "Margherita Pizza",
+          "description": "Classic pizza with fresh mozzarella, tomatoes, and basil.",
+          "price": 12.99
+        },
+        {
+          "name": "Pepperoni Pizza",
+          "description": "Pepperoni slices with mozzarella and tomato sauce.",
+          "price": 14.99
+        },
+        {
+          "name": "BBQ Chicken Pizza",
+          "description": "Grilled chicken, BBQ sauce, red onions, and cilantro.",
+          "price": 15.99
+        },
+     
+        {
+          "name": "Chocolate Lava Cake",
+          "description": "Warm chocolate cake with a molten center, served with vanilla ice cream.",
+          "price": 6.99
+        },
+        {
+          "name": "Apple Pie",
+          "description": "Classic apple pie served with a scoop of vanilla ice cream.",
+          "price": 5.99
+        },
+        {
+          "name": "Cheesecake",
+          "description": "Creamy cheesecake with a graham cracker crust and strawberry topping.",
+          "price": 6.49
+        },
+      
+        {
+          "name": "Craft Beer",
+          "description": "Selection of local and imported craft beers.",
+          "price": 5.99
+        },
+        {
+          "name": "Cocktails",
+          "description": "Variety of classic and signature cocktails.",
+          "price": 7.99
+        },
+        {
+          "name": "Soft Drinks",
+          "description": "Choice of Coke, Diet Coke, Sprite, and other sodas.",
+          "price": 2.99
+        },
+        {
+          "name": "Iced Tea",
+          "description": "Freshly brewed iced tea, sweetened or unsweetened.",
+          "price": 2.99
+        }
+     ],
+"9":[
+        {
+          "name": "Hummus with Pita",
+          "description": "Creamy hummus served with warm pita bread.",
+          "price": 5.99
+        },
+        {
+          "name": "Falafel",
+          "description": "Crispy fried chickpea balls served with tahini sauce.",
+          "price": 6.99
+        },
+        {
+          "name": "Stuffed Grape Leaves",
+          "description": "Grape leaves stuffed with rice and herbs.",
+          "price": 4.99
+        },
+        {
+          "name": "Chicken Mandi",
+          "description": "Traditional Arabian rice dish with spiced chicken.",
+          "price": 14.99
+        },
+        {
+          "name": "Lamb Mandi",
+          "description": "Aromatic rice cooked with tender lamb pieces.",
+          "price": 16.99
+        },
+        {
+          "name": "Vegetable Mandi",
+          "description": "Flavorful rice dish with assorted vegetables.",
+          "price": 12.99
+        },
+        {
+          "name": "Fish Mandi",
+          "description": "Spiced rice served with grilled fish.",
+          "price": 15.99
+        },
+  
+        {
+          "name": "Baba Ganoush",
+          "description": "Smoky eggplant dip served with pita bread.",
+          "price": 5.99
+        },
+        {
+          "name": "Tabbouleh",
+          "description": "Fresh parsley salad with bulgur, tomatoes, and lemon.",
+          "price": 4.99
+        },
+        {
+          "name": "Pickled Vegetables",
+          "description": "Assorted vegetables pickled in a tangy brine.",
+          "price": 3.99
+        },
+      
+        {
+          "name": "Baklava",
+          "description": "Sweet pastry made of layers of filo filled with nuts and honey.",
+          "price": 5.99
+        },
+        {
+          "name": "Knafeh",
+          "description": "Cheese pastry soaked in sweet sugar-based syrup.",
+          "price": 6.99
+        },
+     
+        {
+          "name": "Mint Lemonade",
+          "description": "Refreshing lemonade with a hint of mint.",
+          "price": 2.99
+        },
+        {
+          "name": "Arabic Coffee",
+          "description": "Traditional Arabic coffee with cardamom.",
+          "price": 3.49
+        },
+        {
+          "name": "Soft Drinks",
+          "description": "Choice of Coke, Diet Coke, Sprite, Fanta.",
+          "price": 1.99
+        }
+],
+"10":[
+       {
+          "name": "Masala Vada",
+          "description": "Crispy lentil fritters seasoned with spices.",
+          "price": 4.99,
+          "calories": 150
+        },
+        {
+          "name": "Vegetable Samosa",
+          "description": "Crispy pastry filled with spiced potatoes and peas.",
+          "price": 3.99,
+          "calories": 200
+        },
+        {
+          "name": "Paneer Tikka",
+          "description": "Grilled cottage cheese marinated in spices.",
+          "price": 6.99,
+          "calories": 250
+        },
+     
+        {
+          "name": "Vegetable Biryani",
+          "description": "Basmati rice cooked with mixed vegetables and spices.",
+          "price": 10.99,
+          "calories": 400
+        },
+        {
+          "name": "Chicken Curry",
+          "description": "Chicken cooked in a flavorful curry sauce.",
+          "price": 12.99,
+          "calories": 350
+        },
+        {
+          "name": "Dal Tadka",
+          "description": "Yellow lentils tempered with spices.",
+          "price": 8.99,
+          "calories": 300
+        },
+
+        {
+          "name": "Garlic Naan",
+          "description": "Leavened flatbread with garlic.",
+          "price": 2.99,
+          "calories": 200
+        },
+        {
+          "name": "Plain Roti",
+          "description": "Whole wheat unleavened flatbread.",
+          "price": 1.99,
+          "calories": 150
+        },
+  
+        {
+          "name": "Gulab Jamun",
+          "description": "Deep-fried dough balls soaked in sugar syrup.",
+          "price": 3.99,
+          "calories": 250
+        },
+        {
+          "name": "Rice Kheer",
+          "description": "Creamy rice pudding flavored with cardamom.",
+          "price": 4.99,
+          "calories": 300
+        },
+        {
+          "name": "Mango Lassi",
+          "description": "Sweetened yogurt drink with mango.",
+          "price": 3.49,
+          "calories": 200
+        },
+        {
+          "name": "Masala Chai",
+          "description": "Spiced Indian tea with milk.",
+          "price": 2.99,
+          "calories": 100
+        },
+        {
+          "name": "Fresh Lime Soda",
+          "description": "Sparkling water with fresh lime juice.",
+          "price": 2.49,
+          "calories": 120
+        }
+],
+"11":[
+  
+ 
+        {
+          "name": "Gulab Jamun",
+          "description": "Deep-fried dough balls soaked in sugar syrup.",
+          "price": 3.99,
+          "calories": 150
+        },
+        {
+          "name": "Rasgulla",
+          "description": "Soft spongy balls made from cottage cheese, soaked in sugar syrup.",
+          "price": 4.49,
+          "calories": 180
+        },
+        {
+          "name": "Jalebi",
+          "description": "Deep-fried batter soaked in sugar syrup, crispy and sweet.",
+          "price": 2.99,
+          "calories": 200
+        },
+        {
+          "name": "Kaju Katli",
+          "description": "Diamond-shaped sweet made from cashew nuts and sugar.",
+          "price": 6.99,
+          "calories": 220
+        },
+        {
+          "name": "Rasmalai",
+          "description": "Soft cottage cheese patties soaked in sweetened milk.",
+          "price": 5.99,
+          "calories": 250
+        },
+        {
+          "name": "Barfi",
+          "description": "Sweet confection made from condensed milk and sugar.",
+          "price": 4.99,
+          "calories": 180
+        },
+        {
+          "name": "Ladoo",
+          "description": "Round sweet balls made from flour, sugar, and ghee.",
+          "price": 3.49,
+          "calories": 160
+        },
+        {
+          "name": "Peda",
+          "description": "Soft, fudgy sweet made from condensed milk and sugar.",
+          "price": 4.29,
+          "calories": 190
+        },
+        {
+          "name": "Halwa",
+          "description": "Sweet pudding made from semolina, sugar, and ghee.",
+          "price": 5.49,
+          "calories": 230
+        },
+        {
+          "name": "Mysore Pak",
+          "description": "Rich, fudgy sweet made from chickpea flour, sugar, and ghee.",
+          "price": 6.49,
+          "calories": 250
+        },
+     
+        {
+          "name": "Chicken Biryani",
+          "description": "Aromatic rice cooked with chicken, spices, and herbs.",
+          "price": 12.99,
+          "calories": 400
+        },
+        {
+          "name": "Mutton Biryani",
+          "description": "Flavorful rice dish cooked with tender mutton pieces.",
+          "price": 14.99,
+          "calories": 450
+        },
+        {
+          "name": "Veg Biryani",
+          "description": "Delicious rice dish cooked with mixed vegetables and spices.",
+          "price": 10.99,
+          "calories": 350
+        },
+        {
+          "name": "Prawn Biryani",
+          "description": "Spicy rice dish cooked with succulent prawns and aromatic spices.",
+          "price": 16.99,
+          "calories": 420
+        },
+        {
+          "name": "Egg Biryani",
+          "description": "Fragrant rice cooked with boiled eggs and spices.",
+          "price": 11.99,
+          "calories": 380
+        },
+        {
+          "name": "Paneer Biryani",
+          "description": "Savory rice dish cooked with paneer cubes and spices.",
+          "price": 13.99,
+          "calories": 370
+        },
+        {
+          "name": "Fish Biryani",
+          "description": "Flavorful rice dish cooked with fish pieces and aromatic spices.",
+          "price": 15.99,
+          "calories": 410
+        },
+        {
+          "name": "Hyderabadi Biryani",
+          "description": "Traditional biryani from Hyderabad cooked with special spices.",
+          "price": 16.99,
+          "calories": 430
+        },
+        {
+          "name": "Beef Biryani",
+          "description": "Spicy rice dish cooked with tender beef pieces and aromatic spices.",
+          "price": 17.99,
+          "calories": 460
+        },
+        {
+          "name": "Keema Biryani",
+          "description": "Flavorful rice dish cooked with minced meat and spices.",
+          "price": 15.99,
+          "calories": 420
+        }
+     
+],
+"12":[
+
+        {
+          "name": "Original Recipe Bucket",
+          "description": "A bucket of KFC's classic Original Recipe chicken pieces.",
+          "price": 19.99,
+          "calories": 1500
+        },
+        {
+          "name": "Extra Crispy Bucket",
+          "description": "A bucket of KFC's extra crispy fried chicken pieces.",
+          "price": 21.99,
+          "calories": 1600
+        },
+        {
+          "name": "Grilled Bucket",
+          "description": "A bucket of KFC's grilled chicken pieces.",
+          "price": 22.99,
+          "calories": 1400
+        },
+  
+        {
+          "name": "3-Piece Combo",
+          "description": "3 pieces of chicken, 1 side, and a drink.",
+          "price": 9.99,
+          "calories": 800
+        },
+        {
+          "name": "Mighty Bucket for One",
+          "description": "2 pieces of chicken, 2 tenders, 1 side, and a drink.",
+          "price": 12.99,
+          "calories": 1200
+        },
+        {
+          "name": "Family Feast",
+          "description": "8 pieces of chicken, 4 biscuits, 2 large sides, and 4 drinks.",
+          "price": 29.99,
+          "calories": 3200
+        },
+     
+        {
+          "name": "Original Recipe Chicken Breast",
+          "description": "KFC's classic Original Recipe chicken breast.",
+          "price": 5.99,
+          "calories": 400
+        },
+        {
+          "name": "Extra Crispy Chicken Wing",
+          "description": "Crispy fried chicken wing with KFC's extra crispy coating.",
+          "price": 2.49,
+          "calories": 250
+        },
+        {
+          "name": "Grilled Chicken Thigh",
+          "description": "Juicy grilled chicken thigh seasoned to perfection.",
+          "price": 4.49,
+          "calories": 300
+        },
+      
+        {
+          "name": "Mashed Potatoes",
+          "description": "Creamy mashed potatoes with gravy.",
+          "price": 2.99,
+          "calories": 250
+        },
+        {
+          "name": "Cole Slaw",
+          "description": "Crunchy coleslaw with a tangy dressing.",
+          "price": 2.49,
+          "calories": 150
+        },
+        {
+          "name": "Macaroni and Cheese",
+          "description": "Creamy macaroni and cheese.",
+          "price": 3.49,
+          "calories": 300
+        },
+    
+        {
+          "name": "Chocolate Chip Cookie",
+          "description": "Soft and chewy chocolate chip cookie.",
+          "price": 1.49,
+          "calories": 200
+        },
+        {
+          "name": "Apple Pie",
+          "description": "Warm apple pie with a flaky crust.",
+          "price": 2.29,
+          "calories": 300
+        },
+ 
+        {
+          "name": "Soft Drink (Regular)",
+          "description": "16 oz. soft drink.",
+          "price": 1.99,
+          "calories": 150
+        },
+        {
+          "name": "Iced Tea (Large)",
+          "description": "32 oz. iced tea.",
+          "price": 2.49,
+          "calories": 100
+        },
+        {
+          "name": "Bottled Water",
+          "description": "16.9 oz. bottled water.",
+          "price": 1.49,
+          "calories": 0
+        }
+    
+],
+"13":[
+        {
+          "name": "Margherita",
+          "description": "Classic cheese pizza with tomato sauce and mozzarella cheese.",
+          "price": 9.99,
+          "calories": 220
+        },
+        {
+          "name": "Pepperoni",
+          "description": "Pizza topped with pepperoni slices, tomato sauce, and mozzarella cheese.",
+          "price": 11.99,
+          "calories": 280
+        },
+        {
+          "name": "Vegetarian",
+          "description": "Pizza loaded with assorted vegetables, tomato sauce, and mozzarella cheese.",
+          "price": 10.99,
+          "calories": 250
+        },
+        {
+          "name": "BBQ Chicken",
+          "description": "Pizza topped with BBQ chicken, red onions, BBQ sauce, and mozzarella cheese.",
+          "price": 12.99,
+          "calories": 320
+        },
+        {
+          "name": "Supreme",
+          "description": "Pizza with pepperoni, sausage, bell peppers, onions, mushrooms, tomato sauce, and mozzarella cheese.",
+          "price": 13.99,
+          "calories": 350
+        },
+        {
+          "name": "Hawaiian",
+          "description": "Pizza with ham, pineapple, tomato sauce, and mozzarella cheese.",
+          "price": 11.99,
+          "calories": 300
+        },
+     
+        {
+          "name": "Garlic Breadsticks",
+          "description": "Breadsticks topped with garlic butter and Parmesan cheese.",
+          "price": 4.99,
+          "calories": 180
+        },
+        {
+          "name": "Stuffed Cheesy Bread",
+          "description": "Breadsticks stuffed with cheese, topped with garlic butter and Parmesan cheese.",
+          "price": 6.99,
+          "calories": 250
+        },
+        {
+          "name": "Chicken Wings",
+          "description": "Crispy chicken wings tossed in your choice of sauce.",
+          "price": 8.99,
+          "calories": 320
+        },
+        {
+          "name": "Caesar Salad",
+          "description": "Fresh romaine lettuce with Caesar dressing, croutons, and Parmesan cheese.",
+          "price": 7.99,
+          "calories": 180
+        },
+   
+        {
+          "name": "Chocolate Lava Crunch Cake",
+          "description": "Warm chocolate cake with a gooey chocolate center, topped with chocolate fudge and powdered sugar.",
+          "price": 5.99,
+          "calories": 350
+        },
+        {
+          "name": "Cinnamon Bread Twists",
+          "description": "Twisted breadsticks sprinkled with cinnamon sugar, served with icing for dipping.",
+          "price": 4.99,
+          "calories": 280
+        },
+      
+        {
+          "name": "Coca-Cola",
+          "description": "Classic Coca-Cola soda.",
+          "price": 1.99,
+          "calories": 150
+        },
+        {
+          "name": "Sprite",
+          "description": "Refreshing lemon-lime soda.",
+          "price": 1.99,
+          "calories": 140
+        },
+        {
+          "name": "Bottled Water",
+          "description": "16.9 oz. bottled water.",
+          "price": 1.49,
+          "calories": 0
+        }
+],
+"14":[
+ 
+        {
+          "name": "Chicken Tikka Frankie",
+          "description": "Frankie wrap filled with spicy chicken tikka, onions, and chutney.",
+          "price": 6.99,
+          "calories": 350
+        },
+        {
+          "name": "Paneer Tikka Frankie",
+          "description": "Frankie wrap filled with grilled paneer tikka, onions, and chutney.",
+          "price": 5.99,
+          "calories": 300
+        },
+        {
+          "name": "Veggie Frankie",
+          "description": "Frankie wrap filled with assorted vegetables, paneer, and chutney.",
+          "price": 4.99,
+          "calories": 250
+        },
+        {
+          "name": "Chicken Schezwan Frankie",
+          "description": "Frankie wrap filled with spicy chicken Schezwan, peppers, and onions.",
+          "price": 7.49,
+          "calories": 380
+        },
+        {
+          "name": "Egg Frankie",
+          "description": "Frankie wrap filled with scrambled eggs, onions, and chutney.",
+          "price": 5.49,
+          "calories": 320
+        },
+   
+        {
+          "name": "French Fries",
+          "description": "Crispy potato fries.",
+          "price": 2.99,
+          "calories": 200
+        },
+        {
+          "name": "Onion Rings",
+          "description": "Breaded and fried onion rings.",
+          "price": 3.49,
+          "calories": 250
+        },
+        {
+          "name": "Masala Fries",
+          "description": "French fries tossed with Indian spices.",
+          "price": 3.99,
+          "calories": 220
+        },
+  
+        {
+          "name": "Mango Shake",
+          "description": "Refreshing mango shake.",
+          "price": 3.99,
+          "calories": 300
+        },
+        {
+          "name": "Lemonade",
+          "description": "Freshly squeezed lemonade.",
+          "price": 2.99,
+          "calories": 150
+        },
+        {
+          "name": "Iced Tea",
+          "description": "Chilled iced tea.",
+          "price": 2.49,
+          "calories": 100
+        }
+  
+  
+],
+"15":[
+  
+        {
+          "name": "Vegetable Spring Rolls",
+          "description": "Crispy rolls filled with mixed vegetables.",
+          "price": 4.99,
+          "calories": 180
+        },
+        {
+          "name": "Chicken Wings",
+          "description": "Spicy chicken wings served with ranch dressing.",
+          "price": 6.99,
+          "calories": 250
+        },
+        {
+          "name": "Paneer Tikka",
+          "description": "Grilled cottage cheese marinated in spices.",
+          "price": 7.99,
+          "calories": 220
+        }
+      ,
+     
+        {
+          "name": "Butter Chicken",
+          "description": "Tender chicken cooked in a creamy tomato-based sauce.",
+          "price": 12.99,
+          "calories": 380
+        },
+        {
+          "name": "Palak Paneer",
+          "description": "Paneer cubes cooked in a spinach-based gravy.",
+          "price": 11.99,
+          "calories": 320
+        },
+        {
+          "name": "Vegetable Biryani",
+          "description": "Fragrant rice cooked with mixed vegetables and spices.",
+          "price": 10.99,
+          "calories": 300
+        },
+     
+        {
+          "name": "Fish Curry",
+          "description": "Fresh fish cooked in a tangy coconut-based curry.",
+          "price": 14.99,
+          "calories": 400
+        },
+        {
+          "name": "Shrimp Masala",
+          "description": "Shrimp cooked in a spicy masala gravy.",
+          "price": 16.99,
+          "calories": 380
+        },
+      
+        {
+          "name": "Garlic Naan",
+          "description": "Soft and fluffy Indian bread flavored with garlic.",
+          "price": 2.49,
+          "calories": 200
+        },
+        {
+          "name": "Jeera Rice",
+          "description": "Basmati rice flavored with cumin seeds.",
+          "price": 3.49,
+          "calories": 250
+        },
+        {
+          "name": "Gulab Jamun",
+          "description": "Deep-fried dough balls soaked in sugar syrup.",
+          "price": 3.99,
+          "calories": 220
+        },
+        {
+          "name": "Rasgulla",
+          "description": "Soft spongy balls made from cottage cheese, soaked in sugar syrup.",
+          "price": 4.49,
+          "calories": 200
+        },
+        {
+          "name": "Mango Lassi",
+          "description": "Refreshing yogurt-based drink flavored with mango.",
+          "price": 3.49,
+          "calories": 180
+        },
+        {
+          "name": "Masala Chai",
+          "description": "Spiced Indian tea with milk.",
+          "price": 2.99,
+          "calories": 120
+        },
+        {
+          "name": "Fresh Lime Soda",
+          "description": "Refreshing soda with fresh lime juice.",
+          "price": 2.49,
+          "calories": 100
+        }
+   
+  
+],
+"16":[
+        {
+          "name": "Hummus",
+          "description": "A creamy blend of chickpeas, tahini, lemon juice, and garlic, served with pita bread.",
+          "price": 6.99,
+          "calories": 180
+        },
+        {
+          "name": "Falafel",
+          "description": "Deep-fried chickpea patties seasoned with herbs and spices, served with tahini sauce.",
+          "price": 5.99,
+          "calories": 220
+        },
+        {
+          "name": "Tabbouleh",
+          "description": "A refreshing salad made with finely chopped parsley, tomatoes, onions, mint, bulgur, olive oil, and lemon juice.",
+          "price": 7.99,
+          "calories": 150
+        },
+    
+        {
+          "name": "Shawarma Plate",
+          "description": "Thinly sliced marinated meat (chicken or beef) served with rice or fries, hummus, and salad.",
+          "price": 14.99,
+          "calories": 450
+        },
+        {
+          "name": "Mansaf",
+          "description": "A traditional Jordanian dish made with lamb cooked in a yogurt sauce, served with rice and nuts.",
+          "price": 16.99,
+          "calories": 600
+        },
+        {
+          "name": "Mixed Grill",
+          "description": "An assortment of grilled meats including lamb chops, chicken tikka, and kebabs, served with rice or fries and grilled vegetables.",
+          "price": 18.99,
+          "calories": 700
+        },
+    
+        {
+          "name": "Fattoush",
+          "description": "A Lebanese salad made with mixed greens, tomatoes, cucumbers, radishes, and crispy pieces of toasted pita bread, dressed with a lemony vinaigrette.",
+          "price": 4.99,
+          "calories": 120
+        },
+        {
+          "name": "Baba Ghanoush",
+          "description": "A smoky eggplant dip made with roasted eggplant, tahini, garlic, lemon juice, and olive oil.",
+          "price": 5.99,
+          "calories": 160
+        },
+        {
+          "name": "Arabic Pickles",
+          "description": "Assorted pickled vegetables including cucumbers, turnips, and peppers.",
+          "price": 3.99,
+          "calories": 80
+        },
+     
+        {
+          "name": "Baklava",
+          "description": "A sweet pastry made of layers of filo dough filled with chopped nuts and sweetened with honey or syrup.",
+          "price": 6.99,
+          "calories": 300
+        },
+        {
+          "name": "Kunafa",
+          "description": "A traditional Middle Eastern dessert made with shredded phyllo dough, filled with sweet cheese, and soaked in syrup.",
+          "price": 7.99,
+          "calories": 350
+        },
+      
+        {
+          "name": "Mint Lemonade",
+          "description": "Refreshing lemonade infused with fresh mint leaves.",
+          "price": 3.49,
+          "calories": 120
+        },
+        {
+          "name": "Arabic Coffee",
+          "description": "Strong coffee brewed with cardamom and served in small cups.",
+          "price": 2.99,
+          "calories": 80
+        },
+        {
+          "name": "Ayran",
+          "description": "A traditional Turkish yogurt drink, lightly salted and chilled.",
+          "price": 2.49,
+          "calories": 90
+        }
+     
+  
+  
+],
+"17":[
+ 
+        {
+          "name": "Plain Idli",
+          "description": "Steamed rice cakes made from fermented batter.",
+          "price": 4.99,
+          "calories": 70
+        },
+        {
+          "name": "Rava Idli",
+          "description": "Semolina (rava) based idlis.",
+          "price": 5.49,
+          "calories": 80
+        },
+        {
+          "name": "Vegetable Idli",
+          "description": "Idlis mixed with vegetables.",
+          "price": 6.99,
+          "calories": 90
+        },
+        {
+          "name": "Podi Idli",
+          "description": "Idlis coated with spicy podi (powder).",
+          "price": 5.99,
+          "calories": 75
+        },
+     
+        {
+          "name": "Plain Dosa",
+          "description": "Thin crepe made from fermented rice and lentil batter.",
+          "price": 6.99,
+          "calories": 120
+        },
+        {
+          "name": "Masala Dosa",
+          "description": "Dosa filled with spiced mashed potatoes.",
+          "price": 7.99,
+          "calories": 150
+        },
+        {
+          "name": "Onion Dosa",
+          "description": "Dosa with chopped onions mixed into the batter.",
+          "price": 7.49,
+          "calories": 140
+        },
+     
+        {
+          "name": "Plain Uttapam",
+          "description": "Thick pancake made from fermented batter.",
+          "price": 8.99,
+          "calories": 160
+        },
+        {
+          "name": "Tomato Uttapam",
+          "description": "Uttapam topped with chopped tomatoes.",
+          "price": 9.49,
+          "calories": 170
+        },
+        {
+          "name": "Onion Uttapam",
+          "description": "Uttapam topped with sliced onions.",
+          "price": 9.49,
+          "calories": 180
+        },
+     
+        {
+          "name": "Coconut Chutney",
+          "description": "Chutney made from fresh coconut.",
+          "price": 1.99,
+          "calories": 50
+        },
+        {
+          "name": "Sambar",
+          "description": "Spicy lentil soup with vegetables.",
+          "price": 2.49,
+          "calories": 70
+        },
+        {
+          "name": "Tomato Chutney",
+          "description": "Chutney made from tomatoes and spices.",
+          "price": 1.99,
+          "calories": 60
+        },
+  
+        {
+          "name": "Filter Coffee",
+          "description": "South Indian style brewed coffee.",
+          "price": 2.99,
+          "calories": 100
+        },
+        {
+          "name": "Buttermilk",
+          "description": "Refreshing yogurt-based drink.",
+          "price": 2.49,
+          "calories": 80
+        },
+        {
+          "name": "Fresh Lime Soda",
+          "description": "Sparkling water with fresh lime juice.",
+          "price": 2.49,
+          "calories": 70
+        }
+    
+],
+"18":[
+
+ 
+        {
+          "name": "Chicken Pakodi",
+          "description": "Spicy chicken fritters served with mint chutney.",
+          "price": 6.99,
+          "calories": 350
+        },
+        {
+          "name": "Paneer Pakodi",
+          "description": "Crispy paneer fritters served with tamarind sauce.",
+          "price": 5.99,
+          "calories": 300
+        },
+        {
+          "name": "Vegetable Pakodi",
+          "description": "Assorted vegetable fritters served with spicy sauce.",
+          "price": 4.99,
+          "calories": 250
+        },
+ 
+        {
+          "name": "Chicken Biryani",
+          "description": "Aromatic rice dish cooked with chicken and spices.",
+          "price": 10.99,
+          "calories": 500
+        },
+        {
+          "name": "Paneer Tikka Masala",
+          "description": "Grilled paneer cubes in a creamy tomato-based sauce.",
+          "price": 9.99,
+          "calories": 450
+        },
+        {
+          "name": "Dal Tadka",
+          "description": "Yellow lentils tempered with spices.",
+          "price": 8.99,
+          "calories": 300
+        },
+    
+        {
+          "name": "Naan",
+          "description": "Traditional Indian flatbread.",
+          "price": 2.49,
+          "calories": 200
+        },
+        {
+          "name": "Raita",
+          "description": "Yogurt mixed with cucumber, tomatoes, and spices.",
+          "price": 1.99,
+          "calories": 150
+        },
+        {
+          "name": "Mixed Pickle",
+          "description": "Assorted pickled vegetables.",
+          "price": 1.49,
+          "calories": 100
+        },
+    
+        {
+          "name": "Gulab Jamun",
+          "description": "Deep-fried dough balls soaked in sugar syrup.",
+          "price": 3.99,
+          "calories": 250
+        },
+        {
+          "name": "Rice Kheer",
+          "description": "Creamy rice pudding flavored with cardamom.",
+          "price": 4.99,
+          "calories": 300
+        },
+   
+        {
+          "name": "Mango Lassi",
+          "description": "Sweetened yogurt drink with mango.",
+          "price": 3.49,
+          "calories": 200
+        },
+        {
+          "name": "Masala Chai",
+          "description": "Spiced Indian tea with milk.",
+          "price": 2.99,
+          "calories": 100
+        },
+        {
+          "name": "Fresh Lime Soda",
+          "description": "Sparkling water with fresh lime juice.",
+          "price": 2.49,
+          "calories": 120
+        }
+    
+
+  
+  
+],
   "19":[
     {
       "name": "Original Recipe Chicken",
@@ -859,5 +2533,126 @@
       "calories": 250
     }
 
-  ]
+  ],
+  "20":[
+  
+          {
+            "name": "Chocolate Truffle Cake",
+            "description": "Rich chocolate cake filled and topped with chocolate ganache.",
+            "price": 29.99,
+            "calories": 300
+          },
+          {
+            "name": "Red Velvet Cake",
+            "description": "Velvety red cake with cream cheese frosting.",
+            "price": 34.99,
+            "calories": 350
+          },
+          {
+            "name": "Black Forest Cake",
+            "description": "Chocolate sponge cake with cherry filling and whipped cream frosting.",
+            "price": 27.99,
+            "calories": 280
+          },
+          {
+            "name": "Vanilla Bean Cake",
+            "description": "Moist vanilla cake with vanilla bean frosting.",
+            "price": 26.99,
+            "calories": 320
+          },
+          {
+            "name": "Carrot Cake",
+            "description": "Moist carrot cake with cream cheese frosting and chopped nuts.",
+            "price": 32.99,
+            "calories": 380
+          },
+          {
+            "name": "Lemon Raspberry Cake",
+            "description": "Lemon cake with raspberry filling and lemon cream cheese frosting.",
+            "price": 31.99,
+            "calories": 320
+          },
+       
+          {
+            "name": "Chocolate Cupcake",
+            "description": "Chocolate cupcake with chocolate frosting.",
+            "price": 3.99,
+            "calories": 150
+          },
+          {
+            "name": "Vanilla Cupcake",
+            "description": "Vanilla cupcake with vanilla frosting.",
+            "price": 3.99,
+            "calories": 140
+          },
+          {
+            "name": "Red Velvet Cupcake",
+            "description": "Red velvet cupcake with cream cheese frosting.",
+            "price": 4.49,
+            "calories": 160
+          },
+          {
+            "name": "Lemon Cupcake",
+            "description": "Lemon cupcake with lemon frosting.",
+            "price": 4.49,
+            "calories": 150
+          },
+      
+          {
+            "name": "Chocolate Chip Cookie",
+            "description": "Classic chocolate chip cookie.",
+            "price": 1.49,
+            "calories": 120
+          },
+          {
+            "name": "Oatmeal Raisin Cookie",
+            "description": "Oatmeal cookie with raisins.",
+            "price": 1.49,
+            "calories": 110
+          },
+          {
+            "name": "Sugar Cookie",
+            "description": "Buttery sugar cookie with sprinkles.",
+            "price": 1.49,
+            "calories": 130
+          },
+      
+          {
+            "name": "Blueberry Muffin",
+            "description": "Moist muffin filled with juicy blueberries.",
+            "price": 2.99,
+            "calories": 180
+          },
+          {
+            "name": "Banana Nut Muffin",
+            "description": "Muffin filled with ripe bananas and chopped nuts.",
+            "price": 2.99,
+            "calories": 190
+          },
+          {
+            "name": "Double Chocolate Muffin",
+            "description": "Chocolate muffin with chocolate chips.",
+            "price": 3.49,
+            "calories": 200
+          },
+      
+          {
+            "name": "Coffee",
+            "description": "Freshly brewed coffee.",
+            "price": 2.49,
+            "calories": 5
+          },
+          {
+            "name": "Tea",
+            "description": "Hot tea with your choice of flavors.",
+            "price": 2.49,
+            "calories": 0
+          },
+          {
+            "name": "Milk",
+            "description": "Cold milk.",
+            "price": 1.99,
+            "calories": 120
+          }
+    ]
 }
