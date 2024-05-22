@@ -132,16 +132,7 @@
       "rating":4.5
     
     },
-    {
-      "id": 8,
-      "imag":"https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_660/f594f4f63d3e00e93203f02d40e38d24",
-      "name": "Manorama Sports Bar",
-      "cuisine": "Multicuisine",
-      "location": "Hotel Manorama",
-      "price_for_two": 1500,
-      "veg":false,
-      "rating":3.7
-    },
+  
     {
       "id": 9,
       "image":"http://www.palatejournals.com/wp-content/uploads/2017/11/Plate.jpg",
