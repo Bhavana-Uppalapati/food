@@ -579,163 +579,184 @@
     }
   ],
   "1": [
-    {
-      "name": "Crispy Corn",
-      "description": "Sweet corn kernels fried to a crispy perfection.",
-      "price": 4.99,
-      "calories": 200
-    },
-    {
-      "name": "Chicken Wings",
-      "description": "Spicy and tangy chicken wings.",
-      "price": 6.99,
-      "calories": 450
-    },
-    {
-      "name": "Paneer Tikka",
-      "description": "Chunks of paneer marinated in spices and grilled.",
-      "price": 7.99,
-      "calories": 350
-    },
-    {
-      "name": "Vegetable Samosa",
-      "description": "Crispy pastry filled with spiced potatoes and peas.",
-      "price": 3.99,
-      "calories": 250
-    },
-    {
-      "name": "Hara Bhara Kabab",
-      "description": "Vegetarian patties made with spinach and green peas.",
-      "price": 5.49,
-      "calories": 220
-    },
-    {
-      "name": "Prawn Pepper Salt",
-      "description": "Crispy fried prawns tossed with pepper and salt.",
-      "price": 8.99,
-      "calories": 300
-    },
+    
+      {
+        "menuid": 1,
+        "name": "Crispy Corn",
+        "description": "Sweet corn kernels fried to a crispy perfection.",
+        "price": 4.99,
+        "calories": 200
+      },
+      {
+        "menuid": 2,
+        "name": "Chicken Wings",
+        "description": "Spicy and tangy chicken wings.",
+        "price": 6.99,
+        "calories": 450
+      },
+      {
+        "menuid": 3,
+        "name": "Paneer Tikka",
+        "description": "Chunks of paneer marinated in spices and grilled.",
+        "price": 7.99,
+        "calories": 350
+      },
+      {
+        "menuid": 4,
+        "name": "Vegetable Samosa",
+        "description": "Crispy pastry filled with spiced potatoes and peas.",
+        "price": 3.99,
+        "calories": 250
+      },
+      {
+        "menuid": 5,
+        "name": "Hara Bhara Kabab",
+        "description": "Vegetarian patties made with spinach and green peas.",
+        "price": 5.49,
+        "calories": 220
+      },
+      {
+        "menuid": 6,
+        "name": "Prawn Pepper Salt",
+        "description": "Crispy fried prawns tossed with pepper and salt.",
+        "price": 8.99,
+        "calories": 300
+      },
+      {
+        "menuid": 7,
+        "name": "Paneer Tikka",
+        "description": "Chunks of paneer marinated in spices and grilled.",
+        "price": 8.99,
+        "calories": 350
+      },
+      {
+        "menuid": 8,
+        "name": "Butter Chicken",
+        "description": "Tender chicken in a creamy tomato sauce.",
+        "price": 12.99,
+        "calories": 600
+      },
+      {
+        "menuid": 9,
+        "name": "Vegetable Biryani",
+        "description": "Aromatic basmati rice with mixed vegetables.",
+        "price": 9.99,
+        "calories": 500
+      },
+      {
+        "menuid": 10,
+        "name": "Mutton Rogan Josh",
+        "description": "Lamb cooked in a rich and flavorful curry.",
+        "price": 14.99,
+        "calories": 700
+      },
+      {
+        "menuid": 11,
+        "name": "Hyderabadi Chicken Biryani",
+        "description": "Traditional Hyderabadi biryani made with basmati rice and chicken, cooked with aromatic spices.",
+        "price": 11.99,
+        "calories": 650
+      },
+      {
+        "menuid": 12,
+        "name": "Mutton Biryani",
+        "description": "Flavorful biryani with tender pieces of mutton and fragrant basmati rice.",
+        "price": 13.99,
+        "calories": 700
+      },
+      {
+        "menuid": 13,
+        "name": "Prawn Biryani",
+        "description": "Basmati rice cooked with prawns and a blend of spices.",
+        "price": 12.99,
+        "calories": 600
+      },
+      {
+        "menuid": 14,
+        "name": "Vegetable Biryani",
+        "description": "Aromatic basmati rice with mixed vegetables.",
+        "price": 9.99,
+        "calories": 500
+      },
+      {
+        "menuid": 15,
+        "name": "Egg Biryani",
+        "description": "Biryani rice cooked with boiled eggs and spices.",
+        "price": 10.99,
+        "calories": 550
+      },
+      {
+        "menuid": 16,
+        "name": "Paneer Biryani",
+        "description": "Biryani made with marinated paneer cubes and basmati rice.",
+        "price": 10.99,
+        "calories": 520
+      },
+      {
+        "menuid": 17,
+        "name": "Fish Biryani",
+        "description": "Basmati rice cooked with fish fillets and a blend of spices.",
+        "price": 12.99,
+        "calories": 580
+      },
+      {
+        "menuid": 18,
+        "name": "Garlic Naan",
+        "description": "Leavened bread topped with garlic and coriander.",
+        "price": 2.99,
+        "calories": 150
+      },
+      {
+        "menuid": 19,
+        "name": "Roti",
+        "description": "Whole wheat flatbread.",
+        "price": 1.99,
+        "calories": 100
+      },
+      {
+        "menuid": 20,
+        "name": "Raita",
+        "description": "Yogurt with cucumber and spices.",
+        "price": 1.99,
+        "calories": 50
+      },
+      {
+        "menuid": 21,
+        "name": "Green Salad",
+        "description": "Fresh mixed greens with a light dressing.",
+        "price": 2.49,
+        "calories": 30
+      },
+      {
+        "menuid": 22,
+        "name": "Gulab Jamun",
+        "description": "Deep-fried dough balls in sweet syrup.",
+        "price": 3.99,
+        "calories": 300
+      },
+      {
+        "menuid": 23,
+        "name": "Rasmalai",
+        "description": "Soft paneer balls in sweetened milk.",
+        "price": 4.49,
+        "calories": 250
+      },
+      {
+        "menuid": 24,
+        "name": "Masala Chai",
+        "description": "Traditional Indian spiced tea.",
+        "price": 2.49,
+        "calories": 100
+      },
+      {
+        "menuid": 25,
+        "name": "Lassi",
+        "description": "Chilled yogurt drink, available in sweet or salted.",
+        "price": 3.49,
+        "calories": 150
+      }
+    ],
 
-    {
-      "name": "Paneer Tikka",
-      "description": "Chunks of paneer marinated in spices and grilled.",
-      "price": 8.99,
-      "calories": 350
-    },
-    {
-      "name": "Butter Chicken",
-      "description": "Tender chicken in a creamy tomato sauce.",
-      "price": 12.99,
-      "calories": 600
-    },
-    {
-      "name": "Vegetable Biryani",
-      "description": "Aromatic basmati rice with mixed vegetables.",
-      "price": 9.99,
-      "calories": 500
-    },
-    {
-      "name": "Mutton Rogan Josh",
-      "description": "Lamb cooked in a rich and flavorful curry.",
-      "price": 14.99,
-      "calories": 700
-    },
-
-    {
-      "name": "Hyderabadi Chicken Biryani",
-      "description": "Traditional Hyderabadi biryani made with basmati rice and chicken, cooked with aromatic spices.",
-      "price": 11.99,
-      "calories": 650
-    },
-    {
-      "name": "Mutton Biryani",
-      "description": "Flavorful biryani with tender pieces of mutton and fragrant basmati rice.",
-      "price": 13.99,
-      "calories": 700
-    },
-    {
-      "name": "Prawn Biryani",
-      "description": "Basmati rice cooked with prawns and a blend of spices.",
-      "price": 12.99,
-      "calories": 600
-    },
-    {
-      "name": "Vegetable Biryani",
-      "description": "Aromatic basmati rice with mixed vegetables.",
-      "price": 9.99,
-      "calories": 500
-    },
-    {
-      "name": "Egg Biryani",
-      "description": "Biryani rice cooked with boiled eggs and spices.",
-      "price": 10.99,
-      "calories": 550
-    },
-    {
-      "name": "Paneer Biryani",
-      "description": "Biryani made with marinated paneer cubes and basmati rice.",
-      "price": 10.99,
-      "calories": 520
-    },
-    {
-      "name": "Fish Biryani",
-      "description": "Basmati rice cooked with fish fillets and a blend of spices.",
-      "price": 12.99,
-      "calories": 580
-    },
-
-    {
-      "name": "Garlic Naan",
-      "description": "Leavened bread topped with garlic and coriander.",
-      "price": 2.99,
-      "calories": 150
-    },
-    {
-      "name": "Roti",
-      "description": "Whole wheat flatbread.",
-      "price": 1.99,
-      "calories": 100
-    },
-
-    {
-      "name": "Raita",
-      "description": "Yogurt with cucumber and spices.",
-      "price": 1.99,
-      "calories": 50
-    },
-    {
-      "name": "Green Salad",
-      "description": "Fresh mixed greens with a light dressing.",
-      "price": 2.49,
-      "calories": 30
-    },
-
-    {
-      "name": "Gulab Jamun",
-      "description": "Deep-fried dough balls in sweet syrup.",
-      "price": 3.99,
-      "calories": 300
-    },
-    {
-      "name": "Rasmalai",
-      "description": "Soft paneer balls in sweetened milk.",
-      "price": 4.49,
-      "calories": 250
-    },
-
-    {
-      "name": "Masala Chai",
-      "description": "Traditional Indian spiced tea.",
-      "price": 2.49,
-      "calories": 100
-    },
-    {
-      "name": "Lassi",
-      "description": "Chilled yogurt drink, available in sweet or salted.",
-      "price": 3.49,
-      "calories": 150
-    }
-  ],
   "2": [
     {
       "menu": {
