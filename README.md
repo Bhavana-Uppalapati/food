@@ -19,4 +19,3 @@ Three Simple Steps:
 3. Deploy it.
 
 Believe me, this is the **easiest way** to deploy your JSON server on render.com. Deploy your db.json file without writing a **single line of code**.
-
